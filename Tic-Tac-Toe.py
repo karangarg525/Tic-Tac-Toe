@@ -1,6 +1,6 @@
 import os
 def disp_board(board): # for dispalying the board
-    #board = [0,'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X']
+    #board = [0,'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X']helloo
     #os.system("cls")
     print("   |   |")
     print(" " + board[7] + " |" + " " + board[8] + " |" + " " + board[9] + " ")
